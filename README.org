@@ -1,0 +1,10 @@
+* clack-errors
+
+Error page middleware for Clack.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/clack-errors.git   |
+| commit  | d847a9e  |
+| systems | clack-errors |
+|---------+-------------------------------------------|
+
