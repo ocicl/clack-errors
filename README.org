@@ -8,4 +8,4 @@ Error page middleware for Clack.
 | systems | clack-errors |
 |---------+-------------------------------------------|
 
- 
+  
